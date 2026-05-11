@@ -87,8 +87,3 @@ All settings are at the top of `app.py`:
 | `degraded` | Some endpoints are up, some are down |
 | `unhealthy` | All endpoints are down |
 
-
-Delete everything and paste this in
-Click Commit changes
-
-Then upload your app.py, requirements.txt, and ANALYSIS.md files. Done!
