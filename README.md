@@ -87,13 +87,7 @@ All settings are at the top of `app.py`:
 | `degraded` | Some endpoints are up, some are down |
 | `unhealthy` | All endpoints are down |
 
-How to use this:
 
-Go to github.com/34fynn
-Click New repository
-Name it health-check-service
-Check Add a README file
-Once created, click the pencil ✏️ icon to edit the README
 Delete everything and paste this in
 Click Commit changes
 
